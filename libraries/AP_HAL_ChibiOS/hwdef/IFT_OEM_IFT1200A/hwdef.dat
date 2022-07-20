@@ -1,3 +1,0 @@
-include ../CubeOrange/hwdef.dat
-
-AP_CUSTOM_FIRMWARE_STRING "IFT1200A_4.2.2_X7.2"

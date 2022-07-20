@@ -1,0 +1,3 @@
+include ../CubeOrange/hwdef.dat
+
+define AP_CUSTOM_FIRMWARE_STRING "ArduCopter V4.2.2 IFT X7.2"
